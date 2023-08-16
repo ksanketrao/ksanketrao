@@ -8,7 +8,7 @@ Engineering leader with 15+ years of expertise in driving continuous improvement
 
 * 🌍  I'm based in Hyderabad, Telangana,India
 * ✉️  You can contact me at [ksanketrao@gmail.com](mailto:ksanketrao@gmail.com)
-* 🚀  I'm currently working on [Warehouse Management](http://www.linkedin.com/in/k-sanket-rao)
+* 🚀  I'm currently working on [Warehouse Management/Bots](http://www.linkedin.com/in/k-sanket-rao)
 * 🧠  I'm learning on how to extract more from RabbitMQ
 * 🤝  I'm open to collaborating on interesting projects
 
