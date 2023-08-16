@@ -15,7 +15,7 @@ Engineering leader with 15+ years of expertise in driving continuous improvement
 ### Skills
 
 <p align="left">
-C#,.Net, .NetCore, WebApi,RabbitMQ
+C#,.Net, .NetCore, WebApi,RabbitMQ, Angular, HTML5,CSS, Typescript,Docker
 </p>
 
 ### Socials
