@@ -15,7 +15,7 @@ Engineering leader with 15+ years of expertise in driving continuous improvement
 ### Skills
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+C#,.Net, .NetCore, WebApi,RabbitMQ
 </p>
 
 ### Socials
